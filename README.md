@@ -1,4 +1,5 @@
 # i3wm
+#change the config 
 
 ![2023-06-04_090421-](https://github.com/ragashanmugamrg/i3wm/assets/60066880/66ae0e18-6ff1-4473-b314-72145c53574b)
 ![2023-06-04_090850-](https://github.com/ragashanmugamrg/i3wm/assets/60066880/5f4ff2ee-e01e-4346-a14e-f82c7be9d7f2)
